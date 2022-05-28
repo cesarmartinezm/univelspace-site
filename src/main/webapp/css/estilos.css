@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+h2 {color: white;}
+
+h3,p{
+	color: #f66151;
+	 text-align: left;
+	 padding: 10px;
+	 font-size: 30px;
+	 font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #f66151;
+}
+
+li a:hover {
+  background-color: #111;
+}

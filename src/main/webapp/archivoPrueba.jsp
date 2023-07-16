@@ -28,7 +28,7 @@ body {
 	</ul>
 	<hr>
 	<h2>Plataforma Digital para aprendices de la Universidad Nacional
-		Intergalactica de la Vía Láctea (UNIVL) prueba de edición 2 VS Code</h2>
+		Intergalactica de la Vía Láctea (UNIVL) asasasasas</h2>
 	<hr>
 	
 	<h3>Horarios disponibles</h3>

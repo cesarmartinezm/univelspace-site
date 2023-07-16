@@ -25,6 +25,7 @@ body {
 		<li><a href="horarios.jsp">Horarios </a></li>
 		<li><a href="calificaciones.jsp">Calificaciones </a></li>
 		<li><a href="index.jsp">Inicio </a></li>
+		<li><a href="index.jsp">Prueba </a></li>
 	</ul>
 	<hr>
 	<h2>Plataforma Digital para aprendices de la Universidad Nacional
